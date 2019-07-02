@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+
+body{
+    /* margin-right: 350px; */
+    font-family: 'Indie Flower', cursive;
+    margin-top: 60px;
+    font-size: large;
+    font-weight: bold;
+}
+
+
+div {
+    display:inline;
+    /* font-size:80px; */
+    padding: 20px;
+    border: solid thick yellow;
+    margin: 20px;
+    color:white;
+}
+
+
+#green {
+    background:green;
+    
+}
+#blue {
+    background:blue;
+}
+#red {
+    background:red;
+}
+#purple {
+    background:purple;
+}
+#orange {
+    background:orange;
+}
